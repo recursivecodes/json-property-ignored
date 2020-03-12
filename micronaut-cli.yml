@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: json.property.ignored
+---
+testFramework: junit
+sourceLanguage: java
